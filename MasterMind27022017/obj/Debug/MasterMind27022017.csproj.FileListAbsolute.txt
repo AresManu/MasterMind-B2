@@ -1,0 +1,17 @@
+c:\users\emare\documents\visual studio 2015\Projects\MasterMind27022017\MasterMind27022017\bin\Debug\MasterMind27022017.exe.config
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.csprojResolveAssemblyReference.cache
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MainWindow.g.cs
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\App.g.cs
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017_MarkupCompile.cache
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017_MarkupCompile.lref
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\bin\Debug\MasterMind27022017.exe
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\bin\Debug\MasterMind27022017.pdb
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MainWindow.baml
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.g.resources
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.Properties.Resources.resources
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.csproj.GenerateResource.Cache
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.exe
+C:\Users\emare\Documents\Visual Studio 2015\Projects\MasterMind27022017\MasterMind27022017\obj\Debug\MasterMind27022017.pdb
+C:\Users\emare\Desktop\MasterMind27022017 PRUDHOMME MARS\MasterMind27022017\bin\Debug\MasterMind27022017.exe.config
+C:\Users\emare\Desktop\MasterMind27022017 PRUDHOMME MARS\MasterMind27022017\obj\Debug\MasterMind27022017.exe
+C:\Users\emare\Desktop\MasterMind27022017 PRUDHOMME MARS\MasterMind27022017\obj\Debug\MasterMind27022017.pdb
